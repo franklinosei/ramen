@@ -1,0 +1,35 @@
+main {
+  padding: 10px 200px;
+}
+
+.page__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.page__header > img {
+  width: 550px;
+  height: 400px;
+}
+
+/* ======= Ingredients =========== */
+.ingredients__styles {
+  margin-bottom: 20px;
+}
+
+.ingredients__styles ul {
+  list-style: none;
+}
+
+.ingredients__styles li {
+  padding: 5px;
+}
+/* =========================== */
+
+/* ====== Instructions ========*/
+.instruction__styles li {
+  padding: 5px;
+}
+/* ========================== */
